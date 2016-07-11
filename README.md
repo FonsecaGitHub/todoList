@@ -10,7 +10,7 @@ todoList
 
 ## Installation
 
-no instalation needed
+- No instalation needed.
 
 ## Usage
 
@@ -25,4 +25,4 @@ no instalation needed
 
 ## License
 
-Feel free to use however you like
+- Feel free to use however you like.
