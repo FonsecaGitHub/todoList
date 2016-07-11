@@ -1,0 +1,11 @@
+body { font-family: helvetica; }
+
+ul { list-style: none; padding: 0; margin: 0; width: 800px; }
+
+li { border: 1px solid #ccc; background: #eee; padding: 5px 10px; color: #000; overflow: hidden;}
+
+li span {padding-left: 10px; cursor: default; }
+
+.checkedText {text-decoration: line-through; font-weight: bold; }
+
+.checkedList {background: #DAF7A6; }
