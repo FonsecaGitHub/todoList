@@ -4,9 +4,9 @@ todoList
 
 ## Description
 
--Very simple and basic to-do list;
--No kind of persistence implemented;
--Plain javascript, no frameworks used.
+- Very simple and basic to-do list;
+- No kind of persistence implemented;
+- Plain javascript, no frameworks used.
 
 ## Installation
 
